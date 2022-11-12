@@ -1,4 +1,4 @@
-# Entry 1 (11/7/22): Kaboom The Tool!
+# Entry 1: Kaboom The Tool!
 ##### 11/7/22
 Through the course of several weeks, I was tasked to choose a tool for the creation of the end of the year interactive program we choose to create. Initially though, I was told to make a selection from [this](https://docs.google.com/document/d/1oJFrErlAZvB-0V923QGOm4X3CwiceJsKot2R6Jz8Mdc/preview) list to create a main project idea and a backup project idea with a tool that correlated with each one. I made my selection based on the level I felt was right for me, challenging, but not to the extreme. Here is the list I created: <br>
 1) Main Idea: A game to help improve skills (memory-cards, dexterity- drawing, concentration- puzzles, reaction- levels with running/escaping...e.g.)
