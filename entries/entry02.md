@@ -158,9 +158,10 @@ loadPedit("pio", "sprites/pio.pedit")
 After much researching, struggling, and tinkering with code, I was able to get to the final product. Here are is the [final-result](https://replit.com/@wendyb8188/Kaboom-Tinkeren?v=1). I learned that learning this year's tool wasn't going to be as easy as the tool I learned in 10th grade. 
 
 ### Engineering Design Process 
-
+As of right now I feel like I'm in the second stage "Research the problem" as I am still learning Kaboom and researching things I don't understand to solve problems and develop my knowledge on my tool. 
 
 ### Skills
+Through the creation of this mini-game, I worked on many skills. Two of the skills I learned are “How to Google” and “How to learn.” As I googled, I browsed the web to search for guidance/clues to solve my problems like I did for my last challenge. Using googling, I learned about new information which assisted me in learning my tool, Kaboom.js.
 
 ### Next Steps: 
 For winter break, I wish to learn more about my tool through creating other mini-games by following tutorials and answering questions I have as I am learning about Kaboom.  
