@@ -121,18 +121,19 @@ scene("game", () => {
       move(LEFT, 240), // moves to the beans left infinitely by 480 pixels per second
       "tree", // add a tag here = string
     ]);
-
+    
+    // collision
     bean.onCollide("tree", () => {
-      addKaboom(bean.pos);
-      shake();
+      addKaboom(bean.pos); // kaboom logo
+      shake(); // shakes screen
     });
 
-    wait(rand(0.5, 1.5), () => {
+    wait(rand(0.5, 1.5), () => { // random interval between 0.5 - 1.5 seconds each time
       spawnTree();
     });
   }
 
-  spawnTree(); //  call endlessly, with a random interval between 0.5 - 1.5 seconds each time
+  spawnTree(); //  call endlessly
 });
 ```
 
@@ -148,7 +149,7 @@ scene("game", () => {
 // load a sprite "bean" from an image
 loadSprite("pio", "sprites/pio.pedit")
 ```
-* However, it didn't work and so I went to Google and found someone with the same problem. Here is the [link](https://replit.com/talk/ask/Kaboom-is-confusing/145958). Below is my solution, I had the right idea, but I was using the wrong "asset", instead of using "`loadSprite()`", I was supposed to use "`loadPedit()`"
+* However, it didn't work and so I went to Google and found someone with the same problem. Here is the [link](https://replit.com/talk/ask/Kaboom-is-confusing/145958). Below is my solution, I had the right idea, but I was using the wrong "asset", instead of using `loadSprite()`, I was supposed to use `loadPedit()`. 
 
 ```js
 // load a sprite "pio" from an image
@@ -156,13 +157,13 @@ loadPedit("pio", "sprites/pio.pedit")
 ```
 
 ### Reflection
-After much researching, struggling, and tinkering with code, I was able to get to the final product. Here are is the [final-result](https://replit.com/@wendyb8188/Kaboom-Tinkeren?v=1). I learned that learning this year's tool isn't going to be as easy as the tool I learned in 10th grade.
+After much researching, struggling, and tinkering with code, I was able to get to the final product. Here are is the [final-result](https://replit.com/@wendyb8188/Kaboom-Tinkeren?v=1). I learned that learning this year's tool isn't going to be as easy as the tool I learned in 10th grade (flexbox).
 
 ### Engineering Design Process
 As of right now I feel like I'm in the second stage "Research the problem" as I am still learning Kaboom and researching things I don't understand to solve problems and develop my knowledge on my tool.
 
 ### Skills
-Through the creation of this mini-game, I worked on many skills. Two of the skills I learned are “How to Google” and “How to learn.” As I googled, I browsed the web to search for guidance/clues to solve my problems like I did for my last challenge. Using googling, I learned about new information which assisted me in learning my tool, Kaboom.js.
+Through the creation of this mini-game, I worked on many skills, two of which are “How to Google” and “How to learn.” As I googled, I browsed the web to search for guidance/clues to solve my problems like I did for my last challenge. Using googling, I learned about new information which assisted me in learning my tool, Kaboom.js.
 
 ### Next Steps:
 For winter break, I wish to learn more about my tool through creating other mini-games by following tutorials and answering questions I have as I am learning about Kaboom.
