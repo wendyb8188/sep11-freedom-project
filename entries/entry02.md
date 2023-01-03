@@ -5,7 +5,7 @@
 In my previous blog entry, I wrote about choosing a tool for my freedom project, I ended up electing [Kaboom](https://kaboomjs.com) which is a Javascript game programming library. Through the use of a website called [Replit](https://replit.com) which is used to create and share software, I learned about Kaboom.  
 
 ### Task
-The task I gave myself was creating a mini-game that is similiar to the [dino game](https://kaboomjs.com) that appears when the internet goes out following [this](https://kaboomjs.com/doc/intro) tutorial on kaboom. 
+The task I gave myself was creating a mini-game that is similiar to the [dino game](https://offline-dino-game.firebaseapp.com/) that appears when the internet goes out following [this](https://kaboomjs.com/doc/intro) tutorial on kaboom. 
 
 ### The Learning 
 During this journey to create a running mini-game, I faced many struggles in which helped me learn about Kaboom. Here are some challenges in which I faced and what I learned from each challenge:
@@ -155,7 +155,7 @@ loadPedit("pio", "sprites/pio.pedit")
 ```
 
 ### Reflection
-After much researching, struggling, and tinkering with code, I was able to get to the final product. Here are is the [final-result](https://replit.com/@wendyb8188/Kaboom-Tinkeren?v=1). I learned that learning this year's tool wasn't going to be as easy as the tool I learned in 10th grade. 
+After much researching, struggling, and tinkering with code, I was able to get to the final product. Here are is the [final-result](https://replit.com/@wendyb8188/Kaboom-Tinkeren?v=1). I learned that learning this year's tool isn't going to be as easy as the tool I learned in 10th grade. 
 
 ### Engineering Design Process 
 As of right now I feel like I'm in the second stage "Research the problem" as I am still learning Kaboom and researching things I don't understand to solve problems and develop my knowledge on my tool. 
