@@ -138,9 +138,10 @@ scene("game", () => {
 
 * Challenge #3
   * After finishing my code, I decided to go a even more beyond the Minimal Viable Product by making my own sprite which was something I wanted to do from the beginning. Instead of using "bean" which is shown below:
-
+![bean](/images/bean.png)
   * I created a little duck which was inspired by the duck you use for debugging things on your own. Here it is:
-![](images/bean.png)
+![duck](/images/duck.png)
+
   * After this, I needed to change the code to make my sprite show up instead of bean which is where I got an error saying that the sprite was not found. I wrote this code:
 
 ```js
