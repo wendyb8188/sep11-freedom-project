@@ -1,7 +1,12 @@
 # Entry 3
-##### X/X/XX
+##### 2/13/23
 
-Text
+### Context
+In my previous blog entry, I created a mini-game [Pio](https://replit.com/@wendyb8188/Kaboom-Tinkeren#code/main.js)
+
+### Task
+### The Learning
+### The 
 
 [Previous](entry02.md) | [Next](entry04.md)
 
