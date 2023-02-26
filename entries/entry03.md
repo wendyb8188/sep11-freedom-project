@@ -40,7 +40,7 @@ loadSprite("cloud", "sprites/cloud.png");
 ![image](https://user-images.githubusercontent.com/91750546/221428702-87c7ec65-205b-4450-a0f7-500cd1022076.png)
  
 * Outcome
-  *  In the beginning of the tutorial, I realized that if I wanted to incorporate some of my ideas into the mini-game, I would have to do something different. That's when I decided to use sprites of my own choice: heart, clouds, blue sky. However in changing the sprites, I forgot that I would have to remember to tinker/adjust every time that the man did something with his sprites: bird, heart, land. For the 1st one, I <br>
+  *  In the beginning of the tutorial, I realized that if I wanted to incorporate some of my ideas into the mini-game, I would have to do something different. That's when I decided to use sprites of my own choice: heart, clouds, blue sky. However in changing the sprites, I forgot that I would have to remember to tinker/adjust every time that the man did something with his sprites: bird, heart, land. For the 1st one, I was using .png for all of them, but since I had gotten an image from google, I needed to use jpg. For the second one, I tried using the code that was explained by the man in the video, but realized that mine were CLOUDS not PIPES, so I ended up fixing the name and insted of turning my second cloud upside down, I left it rightside up. <br>
 
 1st (742)
 ```js
