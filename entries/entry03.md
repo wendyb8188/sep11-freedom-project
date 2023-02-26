@@ -2,7 +2,7 @@
 ##### 2/13/23
 
 ### Context
-In my previous blog entry, I created a mini-game [Pio](https://replit.com/@wendyb8188/Kaboom-Tinkeren#code/main.js)
+In my previous blog entry, I created a mini-game: [Pio](https://replit.com/@wendyb8188/Kaboom-Tinkeren#code/main.js). 
 
 ### Task
 
