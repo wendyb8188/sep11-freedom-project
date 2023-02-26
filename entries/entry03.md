@@ -6,7 +6,7 @@ In my previous blog entry, I created a mini-game [Pio](https://replit.com/@wendy
 
 ### Task
 ### The Learning
-### The 
+### What you plan on learning next about your tool; be specific! 
 
 [Previous](entry02.md) | [Next](entry04.md)
 
