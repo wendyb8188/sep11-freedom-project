@@ -11,7 +11,7 @@ My goal this time was to create a flying mini-game using [this](https://youtu.be
 Throughout the process of creating a flying mini-game, I came across many challenges which helped me learn about Kaboom. Here are a couple of challenges I faced and the outcomes of each of them:
 
 * Challenge #1 
-  * One common problem was that my sprites didn't correlate to my code, so whatever the man had in his video wasn't showing up on my side or didn't make sense for me to use. Below are two examples of this problem.
+  * One common problem was that my sprites didn't correlate to my code, so whatever the man had in the video wasn't showing up on my side or didn't make sense for me to use. Below are two examples of this problem.
     * For the 1st piece of code, I was trying to load sprites, so that I could use it in the code. For the second one, I tried to position the new sprites on to the viewer's page. <br>
  
  1st Part
