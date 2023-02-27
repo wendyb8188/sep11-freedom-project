@@ -13,7 +13,7 @@ Throughout the process of creating a flying mini-game, I came across many challe
 * Challenge #1
   * One common problem was that my sprites didn't correlate to my code, so whatever the man had in his video wasn't showing up on my side or didn't make sense for me to use. For the 1st piece of code, I was trying to load sprites, so that I could use it in the code. For the second one, I tried to position the new sprites on to the viewer's page. <br>
  
- 1st (475)
+ 1st 
  ```js
 // load assets- insert load code
 loadSprite("heart", "sprites/heart.png");
@@ -21,7 +21,7 @@ loadSprite("sky", "sprites/sky.png");
 loadSprite("cloud", "sprites/cloud.png");
 ```
 
-2nd (944)
+2nd 
 ```js
 // add sprites on to webpage
     add([ // right-side up
@@ -40,9 +40,9 @@ loadSprite("cloud", "sprites/cloud.png");
 ![image](https://user-images.githubusercontent.com/91750546/221428702-87c7ec65-205b-4450-a0f7-500cd1022076.png)
  
 * Outcome
-  *  In the beginning of the tutorial, I realized that if I wanted to incorporate some of my ideas into the mini-game, I would have to do something different. That's when I decided to use sprites of my own choice: heart, clouds, blue sky. However in changing the sprites, I forgot that I would have to remember to tinker/adjust every time that the man did something with his sprites: bird, heart, land. For the 1st one, I was using .png for all of them, but since I had gotten an image from google, I needed to use jpg. For the second one, I tried using the code that was explained by the man in the video, but realized that mine were CLOUDS not PIPES, so I ended up fixing the name and insted of turning my second cloud upside down, I left it rightside up. <br>
+  *  In the beginning of the tutorial, I realized that if I wanted to incorporate some of my ideas into the mini-game, I would have to do something different. That's when I decided to use sprites of my own choice: heart, clouds, blue sky. However in changing the sprites, I forgot that I would have to remember to tinker/adjust every time that the man did something with his sprites: bird, heart, land. For the 1st one, I was using .png for all of them, but since I had gotten an image from google, I needed to use jpg. For the second one, I tried using the code that was explained by the man in the video, but realized that mine were CLOUDS not PIPES, so I ended up fixing the name and instead of turning my second cloud upside down, I left it rightside up because it looked strange having a cloud one way and one the other way. <br>
 
-1st (742)
+1st 
 ```js
 // load assets- insert load code
 loadSprite("heart", "sprites/heart.png");
@@ -50,7 +50,7 @@ loadSprite("sky", "sprites/sky.jpg");
 loadSprite("cloud", "sprites/cloud.png");
 ```
 
-2nd (1027)
+2nd 
 ```js
   add([ // top cloud
     sprite("cloud"),
