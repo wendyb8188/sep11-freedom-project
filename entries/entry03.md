@@ -106,13 +106,13 @@ scene("gameover", () =>{ //new scene called gameover
 During this entire process, I faced challenges like shown above, some of them were easy to solve while others took more time and patience. Despite the challenges I faced, I came to the solutions and learned from them. I think that this game is my favorite so far, [here](https://replit.com/@wendyb8188/heart-cloud-sky?v=1) is the final product!
 
 ### Engineering Design Process
-
+At the moment, I feel like I'm in two stages, "Research the problem" and "Create a prototype" as I am still learning about Kaboom by creating a mini-game through research on [YouTube](https://www.youtube.com/).
 
 ### Skills
+I believe that I've worked on "How to learn" and "Debugging" skills. As I followed a tutorial and used some of my own ideas, I *learned* about kaboom. During the process of learning, I faced challenges in which I had to *debug* the problems to make my mini-game work the way I wanted to. 
 
-
-### Next Steps: What you plan on learning next about your tool; be specific! 
-I feel more confident in my tool, and hope to learn how to make 
+### Next Steps
+I feel more confident in my tool, and hope to learn how to make more mini-games in the future. I'm thinking about creating a ping-pong game or maybe a shooting game and want to figure out how to create sound. 
 
 [Previous](entry02.md) | [Next](entry04.md)
 
