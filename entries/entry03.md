@@ -65,7 +65,7 @@ loadSprite("cloud", "sprites/cloud.png");
  
 ![image](https://user-images.githubusercontent.com/91750546/221428818-7a8dcef5-b0a6-464d-8ab6-c619a25557c0.png)
 
- * Challenge #2 (2012)
+ * Challenge #2 
   * I wanted to see "GAMEOVER!" like in the tutorial when my heart player collided with the cloud, but was seeing "gameover!" I tried to fix it by changing the `go`
  in `player.collides` from "gameover" to "GAMEOVER!" This led me to getting an error message which can be seen in the image below.
  
@@ -103,7 +103,7 @@ scene("gameover", () =>{ //new scene called gameover
 ![image](https://user-images.githubusercontent.com/91750546/221447818-d2a8ccf2-75fa-4858-b2bc-86faae4634e0.png)
  
 ### Reflection
-
+During this entire process, I faced challenges like shown above, some of them were easy to solve while others took more time and patience. Despite the challenges I faced, I came to the solutions and learned from them. I think that this game is my favorite so far, [here](https://replit.com/@wendyb8188/heart-cloud-sky?v=1) is the final product!
 
 ### Engineering Design Process
 
@@ -112,6 +112,7 @@ scene("gameover", () =>{ //new scene called gameover
 
 
 ### Next Steps: What you plan on learning next about your tool; be specific! 
+I feel more confident in my tool, and hope to learn how to make 
 
 [Previous](entry02.md) | [Next](entry04.md)
 
