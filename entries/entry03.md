@@ -11,7 +11,8 @@ My goal this time was to create a flying mini-game using [this](https://youtu.be
 Throughout the process of creating a flying mini-game, I came across many challenges which helped me learn about Kaboom. Here are a couple of challenges I faced and the outcomes of each of them:
 
 * Challenge #1 
-  * One common problem was that my sprites didn't correlate to my code, so whatever the man had in his video wasn't showing up on my side or didn't make sense for me to use. For the 1st piece of code, I was trying to load sprites, so that I could use it in the code. For the second one, I tried to position the new sprites on to the viewer's page. <br>
+  * One common problem was that my sprites didn't correlate to my code, so whatever the man had in his video wasn't showing up on my side or didn't make sense for me to use. Below are two examples of this problem.
+    * For the 1st piece of code, I was trying to load sprites, so that I could use it in the code. For the second one, I tried to position the new sprites on to the viewer's page. <br>
  
  1st Part
  ```js
@@ -65,7 +66,8 @@ loadSprite("cloud", "sprites/cloud.png");
 ![image](https://user-images.githubusercontent.com/91750546/221428818-7a8dcef5-b0a6-464d-8ab6-c619a25557c0.png)
 
  * Challenge #2 (2012)
-  * .
+  * I wanted to see "GAMEOVER!" like in the tutorial when my heart player collided with the cloud, but was seeing "gameover!" I tried to fix it by changing the `go`
+ in `player.collides` from "gameover" to "GAMEOVER!" This led me to getting an error message which can be seen in the image below.
  
  ```js
 player.collides("cloud", () =>{ // cloud is detected colliding with player
@@ -83,7 +85,7 @@ scene("gameover", () =>{ //new scene called gameover
  ![image](https://user-images.githubusercontent.com/91750546/221447695-1bbeccb3-1a0d-4601-90ee-40518bac01a2.png)
 
  * Outcome
-  * .
+  * I decided to tinker around with it, then changed it back to the way it was. After doing that, I realized that instead of changing what's inside `go`, I needed to change what was inside `text` which can be seen in the image below. The reason is that `go` is calling your scene by its name which I named "gameover", if I change it, then I'm calling a scene that doesn't exist. 
  
 ```js
 player.collides("cloud", () =>{ // cloud is detected colliding with player
@@ -102,9 +104,12 @@ scene("gameover", () =>{ //new scene called gameover
  
 ### Reflection
 
+
 ### Engineering Design Process
 
+
 ### Skills
+
 
 ### Next Steps: What you plan on learning next about your tool; be specific! 
 
