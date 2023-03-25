@@ -34,7 +34,8 @@ Below is a table I created to help me with cross things out of my plan in a more
 
 One of the section on my table is "sprites" which is describing the sprites I created myself. The other section is labeled "scenarios" that I searched for online, until I was happy with the scenes. Below is the story of the progress I've made so far:
 * First, I began by creating a sketch of my sprites: How did I want each to look like? After much drawing, erasing, and using paper after paper, eventually I finalized my drawings. Here is my sketch:
-
+* 
+![load scene](/images/sketch.heic)
 
 [Previous](entry03.md) | [Next](entry05.md)
 
