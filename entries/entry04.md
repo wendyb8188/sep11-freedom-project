@@ -10,7 +10,7 @@ This time I had two tasks:
 2) Begin making progress for my Minimal Viable Product through the creation of sprites, selection of scenes (prior to knowledge thus far: scene game tutorial), and application on code 
 
 ### The Learning 
-While creating the platformer mini-game there were moments where I was confused, but mananged to discover the answers to my questions which helped me get a better understanding of Kaboom and its functions. Here are a couple of discoveries I faced and how I learned from them:
+While creating the platformer mini-game there were moments where I was confused, but mananged to discover the answers to my questions which helped me get a better understanding of Kaboom and its functions. Here are a couple of discoveries I faced and how I learned them:
 
 * Discovery #1
   * In blog 3 I wanted to figure out how to create sound, I ended up unexpectedly learning about it through the process of creating this mini-game. 
