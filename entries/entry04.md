@@ -24,9 +24,16 @@ While creating the platformer mini-game there were moments where I was confused,
  
 ![load scene](/images/scene.png)
 
-For my second task, I followed the part of my plan as shown below (general). I would say that I am 30% done with my project.
+For my second task, I followed the part of my plan as shown below (general). I would say that I am 30% done with my project. 
 
 ![load scene](/images/mvp1.png)
+
+Below is a table I created to help me with cross things out of my plan in a more detailed format. 
+
+![load scene](/images/sprites:scenes.png)
+
+One of the section on my table is "sprites" which is describing the sprites I created myself. The other section is labeled "scenarios" that I searched for online, until I was happy with the scenes. Below is the story of the progress I've made so far:
+* First, I began by creating a sketch of my sprites: How did I want each to look like? After much drawing, erasing, and using paper after paper, eventually I finalized my drawings. Here is my sketch:
 
 
 [Previous](entry03.md) | [Next](entry05.md)
