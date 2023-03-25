@@ -14,7 +14,7 @@ While creating the platformer mini-game there were moments where I was confused,
 
 * Discovery #1
   * In blog 3 I wanted to figure out how to create sound, I ended up unexpectedly learning about it through the process of creating this mini-game. 
-    * How did I arrive at this discovery? Well in the beginning, I was asked to load the sprites, then assign the loaded sprites to the different symbols on the "map," and create collisions between the player and coins/spikes. When I tried to run the code, it gave me an error message that said "Failed to load (image)" and "Failed to fetch (sound)" as shown below. From previous challenges I knew how to load images, so I assumed that for sounds it would be a similar process and I was right.  
+    * How did I arrive at this discovery? Well in the beginning, I was asked to load the sprites, then assign the loaded sprites to the different symbols on the "map," and create collisions between the player and coins/spikes. When I tried to run the code, it gave me an error message that said "Failed to load (image)" and "Failed to fetch (sound)" as shown below. From previous challenges I knew how to load images, so I assumed that for sounds it would be a similar process (folder: sprites --> file: image) and I was right.  
  
 ![load img](/images/img.png)
 ![load sound](/images/sound.png)
