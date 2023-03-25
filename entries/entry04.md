@@ -7,7 +7,7 @@ Previously, I learned about my tool "Kaboom" by creating a flying mini-game usin
 ### Tasks
 This time I had two tasks: 
 1) Create a platformer mini-game using [this](https://kaboomjs.com/doc/21-scenes) tutorial on Kaboom.js that requires the usage of scenes 
-2) Begin making progress for my Minimal Viable Plan through the creation of sprites, selection of scenes (prior to knowledge thus far: scene game tutorial), and application on code 
+2) Begin making progress for my Minimal Viable Product through the creation of sprites, selection of scenes (prior to knowledge thus far: scene game tutorial), and application on code 
 
 ### The Learning 
 While creating the platformer mini-game there were moments where I was confused, but mananged to discover the answers to my questions which helped me get a better understanding of Kaboom and its functions. Here are a couple of discoveries I faced and how I learned from them:
