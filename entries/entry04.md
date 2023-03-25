@@ -45,7 +45,7 @@ debug.inspect = true;
 ### Results
 Here is the [link]() to the final product for task 1 and below is an image of how my platformer game is looking so far!
 
-
+![load platformgame1](/images/platformgame1.png)
 
 [Previous](entry03.md) | [Next](entry05.md)
 
