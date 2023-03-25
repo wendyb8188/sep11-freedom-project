@@ -20,7 +20,8 @@ While creating the platformer mini-game there were moments where I was confused,
 ![load sound](/images/sound.png)
 
 * Discovery #2
- * I learned that every time you create a scene you need to close the brackets!!! When you think of a scene, it's like changing a background, you can't have two backgrounds in one scene. I learned this from a mistake with brackets placement where I was receiving the message as shown below. I had forgotten the main scene (setup of the game displayed while player is playing) end brackets which I didn't find, until I spent a solid fifteen minutes looking for the open and close brackets (`})`) for each piece of code. 
+ * I learned that every time you create a scene you need to close the brackets!!! When you think of a scene, it's like changing a background, you can't have two backgrounds in one scene. 
+   * I learned this from a mistake with brackets placement where I was receiving the message as shown below. I had forgotten the main scene (setup of the game displayed while player is playing) end brackets which I didn't find, until I spent a solid fifteen minutes looking for the open and close brackets (`})`) for each piece of code. 
  
 ![load scene](/images/scene.png)
 
@@ -32,7 +33,7 @@ Below is a table I created to help me cross things out of my plan in a more deta
 
 ![load scene](/images/sprites:scenes.png)
 
-One of the section on my table is "sprites" which is describing the sprites I created myself. The other section is labeled "scenarios" that I searched for online, until I was happy with the scenes. Below is the story of the progress I've made so far:
+One of the sections on my table is "sprites" which is describing the sprites I created myself. The other section is labeled "scenarios" that I searched for online, until I was happy with the scenes. Below is the story of the progress I've made so far:
 * First, I began by creating a sketch of my sprites: How I wanted each sprite to look like? My inspiration came from figurines I used to collect as a child called [shopkins](https://shopkinsgame.com). After much drawing, erasing, and using paper after paper, eventually I finalized my drawings. Here is my sketch:
 
 ![load sketch](/images/sketchmvp.png)
