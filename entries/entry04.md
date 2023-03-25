@@ -20,9 +20,10 @@ While creating the platformer mini-game there were moments where I was confused,
 ![load sound](/images/sound.png)
 
 * Discovery #2
- * I learned that every time you create a scene you need to close the brackets!!! When you think of a scene, it's like changing a background, you can't have two backgrounds in one scene. I learned this from a mistake with brackets placement where I was receiving the message as shown below. I had forgotten the main scene (setup of the game displayed while player is playing) end brackets which I didn't find, until I spent a solid fifteen minutes looking for the open and close bracket for each (`})`).
+ * I learned that every time you create a scene you need to close the brackets!!! When you think of a scene, it's like changing a background, you can't have two backgrounds in one scene. I learned this from a mistake with brackets placement where I was receiving the message as shown below. I had forgotten the main scene (setup of the game displayed while player is playing) end brackets which I didn't find, until I spent a solid fifteen minutes looking for the open and close brackets for each piece of code (`})`). 
  
 ![load scene](/images/scene.png)
+
 
 
 
