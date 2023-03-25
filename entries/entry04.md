@@ -24,8 +24,9 @@ While creating the platformer mini-game there were moments where I was confused,
  
 ![load scene](/images/scene.png)
 
+For my second task, I followed the part of my plan as shown below (general). I would say that I am 30% done with my project.
 
-
+![load scene](/images/mvp1.png)
 
 
 [Previous](entry03.md) | [Next](entry05.md)
