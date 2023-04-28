@@ -6,7 +6,7 @@ In my previous entries, I created a [platformer mini-game](https://replit.com/@w
 
 ### Goal(s)
 1) My first goal was to finish my MVP!!!
-2) My second goal was to do learn more about Kaboom to go BEYOND MVP (later on) by doing tinkering 
+2) My second goal was to do learn more about Kaboom to go BEYOND MVP (later on) by doing researching 
 
 ### MVP + Challenge(s)
 For my first goal, I had already started it and completed about 30% of it, so my task was to finish it and reach 100%. As a reminder the second part of my plan is the second bullet point:
@@ -88,8 +88,8 @@ const LEVELS  = [ // levels = 3
 ![image](https://user-images.githubusercontent.com/91750546/235047811-8f058ea9-74b6-4938-964b-ae7ea54e4d2b.png)
 
 ### *The Just About Final Learnings*
-After I completed my MVP, I worked on my second goal, here are new things I learned from tinkering:
-* .
+After I completed my MVP, I worked on my second goal, here are new things I learned from researching:
+* You can use 
 * .
 * .
 * .
