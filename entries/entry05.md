@@ -88,7 +88,11 @@ const LEVELS  = [ // levels = 3
 ![image](https://user-images.githubusercontent.com/91750546/235047811-8f058ea9-74b6-4938-964b-ae7ea54e4d2b.png)
 
 ### *The Just About Final Learnings*
-
+After I completed my MVP, I worked on my second goal, here are new things I learned:
+* .
+* .
+* .
+* .
 
 ### Engineering Design Process
 As of right now, I feel like I am in two stages: "Create a Prototype" AND "Test and Evaluate the Prototype." As I *created* my projoct, I *tested* and *evaluated* it to have a platformer game by doing the least I can do to make it work.
