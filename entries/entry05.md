@@ -62,7 +62,7 @@ Here is how I tackled the bullets:
 ![load platformgame1](/images/platformgame1.png)
 ![image](https://user-images.githubusercontent.com/91750546/235047706-5125bd30-09ad-4583-a862-c202184bd0bc.png)
 3) For the functionality of each sprite, I decided to keep it simple as it the MVP, so the baskets and the hearts also known as the enemies and prizes stayed still. Meanwhile the player, watermelon's goal was to collect the hearts and avoid the baskets (if it touches it, the player loses). 
-4) For the length of the game, I chose to do three levels starting from easy going to medium than hard. Below is the map (code) for the levels along with the picture to go along side them. One of the challenges was testing the game out, as the creator I should know how to beat all three levels, but it took time, patience, and lots of adjusting before I was satisfied with the difficulty range. After I beat it, I needed to see if others could too, so I asked for help from my family and friends, and they gave me advice on ways to improve it. One of my favorite reactions came from my sister who said that "this was one of those games that makes you want to throw the computer out the window" and from a friend's who said "this is rigged" (as they proceded to try over and over and over again). 
+4) For the length of the game, I chose to do three levels starting from easy going to medium than hard. Below is the map (code) for the levels along with the picture to go along side them. One of the challenges was testing the game out, as the creator I should know how to beat all three levels, but it took time, patience, and lots of adjusting before I was satisfied with the difficulty range. After I beat it, I needed to see if others could too, so I asked for help from my family and friends, and they gave me advice on ways to improve it. One of my favorite reactions came from my sister who said that "this is like one of those games that makes you want to throw the computer out the window" and from a friend's who said "this is rigged" (as they proceded to try over and over and over again). 
 ```js
 
 const LEVELS  = [ // levels = 3 
@@ -104,7 +104,9 @@ Through the process of bringing my game to life, I felt like I used the skills "
 After many entries speaking about a project using Kaboom, I finally created that long-awaited project... Here is the [link](https://replit.com/@wendyb8188/FreedomProject?v=1) to my MVP!!! :D 
 
 ### Next Steps
-IMPLEMENT my learnings to go beyond MVP.
+Implement my learnings to go beyond MVP or find out other ways to make my game more efficient and fun. Here are other ideas:
+* Include audio by applying my learnings
+* Make the crates (enemies)/hearts move slightly
 
 [Previous](entry04.md) | [Next](entry06.md)
 
