@@ -89,10 +89,10 @@ const LEVELS  = [ // levels = 3
 
 ### *The Just About Final Learnings*
 After I completed my MVP, I worked on my second goal, here are new things I learned from researching:
-* You can use 
-* .
-* .
-* .
+* Just like how I used `const SPEED = 480 // speed = player sprite`, You can use: 
+  * ` const JUMP_FORCE = ...` to determine how much you want a sprite to jump (with what force)
+  * ` const MOVE_SPEED = ...` instead of using just SPEED
+* I am thinking on using these for going beyond MVP (increase difficulty). For example, instead of making my player go one speed or do a specific amount of height for jumping, I could change them, so that my player can go at a faster speed an jump over more obstacles (maybe bigger crates)!
 
 ### Engineering Design Process
 As of right now, I feel like I am in two stages: "Create a Prototype" AND "Test and Evaluate the Prototype." As I *created* my projoct, I *tested* and *evaluated* it to have a platformer game by doing the least I can do to make it work.
