@@ -17,7 +17,7 @@ For my project, I made a platformer game. These blogs will walk through my proce
 
 ## Implications
 My platformer game is meant to serve as a form of entertainment. 
-My project is a platformer game that affects us, people around us, and systems around us including globally, socially, and economically. Globally (government/laws, big systems, environment), platform games like mine, can help teachers inspire and ecourage students to learn how to code to create their own games online. Not only is this more accessible, but it can also help the environment  
+My project is a platformer game that affects us, people around us, and systems around us including globally, socially, and economically. Globally (government/laws, big systems, environment), platform games like mine, can help teachers inspire and ecourage students to learn how to code to create their own games online. Not only is this more accessible, but is a way to conserve natural resources that you would need to use to create a board game. Socially (individual, relationships, etc.), platformer games can cause an individual's screen time to rise causing them to become islolated from society and even lead to the individuals relationship with their loved ones to deteriorate. Economically (jobs, finance, infrastructure), it provides job opportunities for people like programmers 
 
 ---
 
