@@ -2,7 +2,7 @@
 by Wendy Bazan Galindo
 
 ## Context
-The "Freedom Project" for SEP11 is all about creating an interactive program that uses Javascript (coding language) and a tool of one's own choice (JS library, framework...etc). The purpose of this blog is to show people how Javascript can be used to make a functional interactive program which can be applied to the real world.  
+The "Freedom Project" for SEP11 is all about creating an interactive program that uses Javascript (coding language) and a tool of one's own choice (JS library, framework...etc). The purpose of this blog is to show how Javascript can be used to make a functional interactive program which can be applied to the real world.  
 
 ## Content
 For my project, I made a platformer game. These blogs will walk through my process of independently studying [kaboom](https://kaboomjs.com/) in order to create an inspiring, fun game! 
@@ -17,6 +17,7 @@ For my project, I made a platformer game. These blogs will walk through my proce
 
 ## Implications
 My platformer game is meant to serve as a form of entertainment. 
+My project is a platformer game that affects us, people around us, and systems around us including globally, socially, and economically.
 
 ---
 
