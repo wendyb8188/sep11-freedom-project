@@ -1,7 +1,19 @@
 # Entry 6
-##### X/X/XX
+##### 5/28/23
 
-Text
+### Context
+
+### Content
+
+### Engineering Design Process
+
+### Skills
+
+### Takeaways/Reflection
+
+
+links
+
 
 [Previous](entry05.md) 
 
