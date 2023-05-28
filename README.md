@@ -2,7 +2,7 @@
 by Wendy Bazan Galindo
 
 ## Context
-The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
+The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to .
 
 ## Content
 For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
