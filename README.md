@@ -19,6 +19,7 @@ For my project, I made a platformer game. These blogs will walk through my proce
 My project is a platformer game that affects us, people around us, and systems around us including globally, socially, and economically. Globally (big systems, environment...etc.), platform games like mine, can help teachers encourage students to learn how to code to create their own games online. Not only is this more accessible, but is a way to conserve natural resources that you would need to use to create a board game. Socially (individual, relationships, etc.), platformer games can cause an individual's screen time to rise causing them to become islolated from society and even lead to the individuals relationship with their loved ones to fall apart. Economically (jobs, infrastructure...etc.), it provides job opportunities for programmers and it is an innovative ways of inspiring future programmers. Despite any harmful ways a platformer game may affect people, it can also be helpful, it all depends on how people decide to use it and how they will let it affect them. I created my platformer game with the intention of giving people a form of entertaining themselves.
 
 ---
+## Experience the journey with me...
 
 * [Blog Entry 1](entries/entry01.md)
 * [Blog Entry 2](entries/entry02.md)
