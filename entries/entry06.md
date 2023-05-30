@@ -2,14 +2,16 @@
 ##### 5/28/23
 
 ### Context
+At this very moment, I have officially completed my platformer game. I worked on finishing my minimal viable product then moved on to adding last minute touches to the game. In this final entry, I will go over the experience of presenting my final product to people and the takeaways I learned from this. 
 
 ### Content
+#### Expo Elevator Pitch
+
+#### In-Class Presentation
 
 ### Engineering Design Process
 
 ### Skills
-
-### Takeaways/Reflection
 
 
 links
