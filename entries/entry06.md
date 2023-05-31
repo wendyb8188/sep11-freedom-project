@@ -21,9 +21,9 @@ Based off this, I created a short presentation:
 * If you have any questions, I'll be happy to answer them!
 ---
 
-I presented to 3 judges, two of them were seniors in HS and the other one was an assistant principal of math, science, and computer science. 
-.  
-
+I presented to 3 judges, two of them were seniors in HS and the other one was an assistant principal of math, science, and computer science. At first, I was really nervous, but after I presented two the first senior I felt more at ease that when it was time to present to the others, I was more excited than nervous. Below are some takeaways from this expereience:
+* It is important to be approachable, so that you leave a good impression on people (smile, be friendly, and greet them immediately)
+* Interruptions 
 #### In-Class Presentation
 
 
