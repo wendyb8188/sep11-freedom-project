@@ -41,12 +41,14 @@ Below is the feedback I got from my teacher (seeing this made me feel extremely 
     * In the longer presentation, I was so focused on the presentation that when my classmates laughed at a joke I made, I lost my train of thought because of their laughter, so I was forced to think in the spot and it turned out great.
     
 ### Engineering Design Process
-At this instant, I am in the final stage: "Communicate the results." 
+At this instant, I am in the final stage: "Communicate the results." After I created my project, I had to *communicate* my results to an audience in order to demonstrate what I created throughout the course of the year. 
 
 ### Skills
 Communication: articulating ideas to your partner, writing in your portfolio, public speaking in presentations.
 Creativity: how to think outside the box, be innovative, and create the future.
 
+### Results (Next Steps)
+After about one week passed, the results for the expo came out and that's when I heard my name. Turns out I won top 3 in the entire 11th grade Software Engineering Program!!! Next, I'll be preparing to present in my school's auditorium in fornt of many people which is a little terrifying, but I'm going to try my best...
 
 [Previous](entry05.md) 
 
