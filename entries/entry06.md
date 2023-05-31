@@ -41,9 +41,11 @@ Below is the feedback I got from my teacher (seeing this made me feel extremely 
     * In the longer presentation, I was so focused on the presentation that when my classmates laughed at a joke I made, I lost my train of thought because of their laughter, so I was forced to think in the spot and it turned out great.
     
 ### Engineering Design Process
-
+At this instant, I am in the final stage: "Communicate the results." 
 
 ### Skills
+Communication: articulating ideas to your partner, writing in your portfolio, public speaking in presentations.
+Creativity: how to think outside the box, be innovative, and create the future.
 
 
 [Previous](entry05.md) 
