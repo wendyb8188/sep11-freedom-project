@@ -21,11 +21,15 @@ Based off this, I created a short presentation:
 * If you have any questions, I'll be happy to answer them!
 ---
 
-I presented to 3 judges, two of them were seniors in HS and the other one was an assistant principal of math, science, and computer science. At first, I was really nervous, but after I presented two the first senior I felt more at ease that when it was time to present to the others, I was more excited than nervous. Below are some takeaways from this expereience:
-* It is important to be approachable, so that you leave a good impression on people (smile, be friendly, and greet them immediately)
-* Interruptions 
+I presented to 3 judges, two of them were seniors in HS and the other one was an assistant principal of math, science, and computer science. At first, I was really nervous, but after I presented two the first senior I felt more at ease that when it was time to present to the others, I was more excited than nervous. 
 #### In-Class Presentation
 
+### Below are some takeaways from these experience:
+* It is important to be approachable, so that you leave a good impression on people (smile, be friendly, and greet them immediately)
+    * When I first started 
+* Distractions aren't meant to stump you, they are meant to give you time to think and immprovise  
+    * During the beginning of my first presentation, I was stopped by a teacher passing by who wanted to try out my game, she apologized (didn't realize I was being judged) and I continued to present. I think that this made my presentation even better and taught me to improvise or how some might say "go with the flow."
+* 
 
 ### Engineering Design Process
 
