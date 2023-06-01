@@ -21,7 +21,7 @@ Based off this, I created a short presentation:
 * If you have any questions, I'll be happy to answer them!
 ---
 
-I presented to 3 judges, two of them were seniors in HS and the other one was an assistant principal of math, science, and computer science. At first, I was really nervous, but after I presented two the first senior I felt more at ease that when it was time to present to the others, I was more excited than nervous. 
+I presented to 3 judges, two of them were seniors in HS and the other one was an assistant principal of math, science, and computer science. At first, I was really nervous, but after I presented to the first senior I felt more at ease that when it was time to present to the others, I was more excited than nervous. 
 #### In-Class Presentation
 This was a formal presentation in class which went more in-depth about everything I learned from the entire journey. Below is the rubric: 
 
@@ -35,17 +35,16 @@ Below is the feedback I got from my teacher (seeing this made me feel extremely 
 
 ### Below are some takeaways from these experience:
 * It is important to be approachable, so that you leave a good impression on people (smile, be friendly, and greet them immediately)
-    * In the beginning of high school, I didn't put in a lot of effort to grab peoples attention, but as I practiced more often, I realized that sometimes people need encouraging. Looking back to my older presentations, I feel like I've improved in many ways including making eye contact and projecting my voice
+    * In the beginning of high school, I didn't put in a lot of effort to grab peoples attention, but as I practiced more often, I realized that sometimes people need encouraging. Looking back to my older presentations, I feel like I've improved in many ways including making eye contact and projecting my voice.
 * Distractions aren't meant to stump you, they are meant to give you time to think and improvise
     * During the beginning of the 1-minute presentation, I was stopped by a teacher passing by who wanted to try out my game, she apologized (didn't realize I was being judged) and I continued to present. I think that this made my presentation even better and taught me to improvise or as some might say "go with the flow."
     * In the longer presentation, I was so focused on the presentation that when my classmates laughed at a joke I made, I lost my train of thought because of their laughter, so I was forced to think in the spot and it turned out great.
     
 ### Engineering Design Process
-At this instant, I am in the final stage: "Communicate the results." After I created my project, I had to *communicate* my results to an audience in order to demonstrate what I created throughout the course of the year. 
+At this instant, I am in the final stage: "Communicate the results." After I created my project, I had to *communicate* my results to an audience by creating a presentation. 
 
 ### Skills
-Communication: articulating ideas to your partner, writing in your portfolio, public speaking in presentations.
-Creativity: how to think outside the box, be innovative, and create the future.
+During this final process, I felt like I used the skills "Communication" and "Creativity." In order to *communicate* my results, I needed to use my *creativity* to make an interesting and educating presentation as a way of summarizing the journey to create a platformer game.  
 
 ### Results (Next Steps)
 After about one week passed, the results for the expo came out and that's when I heard my name. Turns out I won top 3 in the entire 11th grade Software Engineering Program!!! Next, I'll be preparing to present in my school's auditorium in fornt of many people which is a little terrifying, but I'm going to try my best...
